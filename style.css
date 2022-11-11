@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 165, 0);
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 25px;
+  }
+  .active{
+    color: palevioletred;
+    background-color: blueviolet;
+    border: 3px solid darkblue
+  }
